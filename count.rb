@@ -8,3 +8,6 @@ counts = []
 end
 
 puts counts
+
+
+sam("crepes")
